@@ -45,7 +45,7 @@ In the ideal scenario, then, projects would be able to track usage at a more det
 | What value have users, contributors, maintainers, and other stakeholders received from the software (e.g., better work, advancing skills and careers, or finding community and support)? | Qualitative interviews with the software community Surveys and skills assessments Soliciting testimonials Tracking career progression  Social network analyses |
 | Do other projects depend on this software? | Dependency graphs |
 
-## OSS Project Community Health** 
+## OSS Project Community Health
 
 Community health is somewhat more abstract and subjective than impact, making it difficult to define and measure. If we were to strive for a general definition of community health, it would likely include the degree of psychological safety[^1] in a software community, the level of diversity in community members’ backgrounds and characteristics, the inclusiveness of the community, activity levels (e.g., active raising and closing of issues, traffic on communication forums, attendance at events), and the formalization of pathways in the community (e.g., contributor and developer on-ramps, leadership opportunities). Although these attributes are perhaps less quantifiable than impact, projects often take the following steps to measure community health:
 
@@ -71,7 +71,7 @@ The above description and measurements of community health apply broadly to open
 
 Impact and health overlap in both definition and measurement. Activity levels such as contributions or engagement on communication forums, for example, can signal that a project has both significant uptake and a welcoming atmosphere (especially when there is a steady increase in new contributors and/or a low rate of churn). It is therefore useful to map impact and health onto one another and consider the characteristics of projects that have either Broad or Narrow Impact and either Low Community Health or High Community Health.
 
-**Characteristics of Projects by Impact and Health** 
+**Characteristics of Projects by Impact and Health
 
 |  | Low Community Health | High Community Health  |
 | :---- | :---- | :---- |
@@ -82,7 +82,7 @@ Impact and health overlap in both definition and measurement. Activity levels su
 
 Software projects of the above quadrants can be sustained. For example, low-health broad-impact projects may survive many years on the strength of one or a few dedicated maintainers, as long as maintenance burden is kept low (e.g., by rejecting most feature enhancement requests, providing limited user support, etc). However, sustainability as a forward-looking property is a forecast, where a number of factors such as elements of impact and community health can be combined into a probabilistic measure of sustainability. Another way of looking at this is that software sustainability is a measure of the software project's ability to survive challenge events that each have some chance of happening, such as the main developer leaving the project, a funding grant ending, etc.  (see [Towards Defining Lifecycles and Categories of Research Software](https://doi.org/10.5281/zenodo.13974638)), and that there is some set of likelihoods of the project surviving each such event. \[*note to contributors: more needed here\!*\]
 
-**General Questions for Discussion** 
+## General Questions for Discussion
 
 * How do you move from low community health to high community health?  
 * How do you move from narrow impact to broad impact?   
@@ -90,7 +90,7 @@ Software projects of the above quadrants can be sustained. For example, low-heal
     * Small science teams drive innovations that enable big science organizations to have impact. Relevant reference: Ed Yong’s “[Small Teams of Scientists Have Fresher Ideas](https://www.theatlantic.com/science/archive/2019/02/why-small-science-still-matters/582685/)”  
     * In other words, a project could have a narrow impact as its stated vision (at first or in the long-term), and that can be a very good thing.
 
-**Questions for Discussion in Your Project’s Community**
+## Questions for Discussion in Your Project’s Community
 
 * What is our desired impact?  
   * How has it changed?  
@@ -100,7 +100,7 @@ Software projects of the above quadrants can be sustained. For example, low-heal
   * How can we supplement our quantified measures with qualitative data?  
   * Who needs to be at the table when assessing these data?
 
-**Resources on Metrics** 
+## Resources on Metrics
 
 * CHAOSS \- [https://chaoss.community](https://chaoss.community)  
 * Code for Science and Society’s [*Tracking Impact and Measuring Success in Data Education Events*](https://www.codeforsociety.org/eventfund/updates/tracking-impact-and-measuring-success-in-data-education-events)  

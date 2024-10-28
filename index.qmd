@@ -71,7 +71,7 @@ The above description and measurements of community health apply broadly to open
 
 Impact and health overlap in both definition and measurement. Activity levels such as contributions or engagement on communication forums, for example, can signal that a project has both significant uptake and a welcoming atmosphere (especially when there is a steady increase in new contributors and/or a low rate of churn). It is therefore useful to map impact and health onto one another and consider the characteristics of projects that have either Broad or Narrow Impact and either Low Community Health or High Community Health.
 
-**Characteristics of Projects by Impact and Health
+## Characteristics of Projects by Impact and Health
 
 |  | Low Community Health | High Community Health  |
 | :---- | :---- | :---- |
@@ -108,7 +108,6 @@ Software projects of the above quadrants can be sustained. For example, low-heal
 * CSIRO’s [organization-wide approach to impact assessment](https://www.csiro.au/en/about/corporate-governance/ensuring-our-impact/a-csiro-wide-approach-to-impact)
 
 [^1]:  Psychological safety as we’re using it here means broadly that people feel they can voice their opinions, ideas, and concerns without negative consequences or repercussions. Psychologically safe environments tend to promote open communication, collaboration, learning and innovation and can support constructive disagreement, feedback culture and taking risks for growth and improvement. 
-  
 
 [![CZI's Essential Open Source Software for Science](img/CZI-EOSS.png)](https://czi.co/EOSS)
 [![Organizational Mycology](img/om_short_logo.png)](https://orgmycology.com)
